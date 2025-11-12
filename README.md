@@ -1,2 +1,2 @@
 # guesser_game
-A simple number guessing game using pyton.
+A simple number guessing game using python.
